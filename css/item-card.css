@@ -1,0 +1,54 @@
+.item-card {
+  width: 23vw;
+  margin-bottom: 6px;
+}
+
+.item-card-top {
+  position: relative;
+}
+
+.item-img {
+  width: 23vw; 
+  object-fit: cover;
+}
+
+.item-button {
+  position: absolute;
+  bottom: -2vh;
+  right: 2vw;
+  color: #fff;
+  background-color: #ccc;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: center;
+  text-align: center;
+  white-space: nowrap;
+  width: 6vh;
+  height: 6vh;
+  line-height: 6vh;
+  border-radius: 100%;
+  font-size: 6vh;
+  font-weight: 900;
+  
+}
+
+.item-description ul{
+  display: flex;
+  flex-direction: row;
+  padding: 2vh 2vw;
+}
+
+.item-description ul li{
+  flex: 1;
+  text-align: center;
+  font-size: 3vmin;
+}
+
+.item-name {
+  font-weight: 100;
+}
+
+.price {
+  font-weight: 100;
+}

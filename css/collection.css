@@ -1,0 +1,25 @@
+.collection-heading {
+  padding: 2vmin;
+  display: flex;
+  flex-direction: row;
+}
+
+.collection-heading h3 {
+  font-size: 20pt;
+  flex: 6;
+}
+
+.collection-heading h4 {
+  font-size: 16pt;
+  flex: 1;
+  margin: auto 0;
+}
+
+.store-collection {
+}
+
+.card-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

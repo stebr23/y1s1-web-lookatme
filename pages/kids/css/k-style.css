@@ -1,0 +1,22 @@
+body {
+	background-color: #FFF8E1;
+}
+
+.store-name h1 {
+	color: #FF9100;
+}
+
+#l-button:hover {
+	color: #F50057;
+	border-bottom: solid 2px #F50057;
+}
+
+#m-button:hover {
+	color: #00B0FF;
+	border-bottom: solid 2px #00B0FF;
+}
+
+#k-button {
+	color: #FF9100;
+	border-bottom: solid 2px #FF9100;
+}

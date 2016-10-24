@@ -1,0 +1,30 @@
+body {
+	background-color: #E3F2FD;
+}
+
+.store-name h1 {
+	color: #00B0FF;
+}
+
+#l-button:hover {
+	color: #F50057;
+	border-bottom: solid 2px #F50057;
+}
+
+#m-button {
+	color: #00B0FF;
+	border-bottom: solid 2px #00B0FF;
+}
+
+#k-button:hover {
+	color: #FF9100;
+	border-bottom: solid 2px #FF9100;
+}
+
+.img-flip {
+	-moz-transform: scale(-1, 1);
+	-webkit-transform: scale(-1, 1);
+	-o-transform: scale(-1, 1);
+	-ms-transform: scale(-1, 1);
+	transform: scale(-1, 1);
+}
